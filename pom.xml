@@ -37,7 +37,7 @@
         <google.errorprone.version>2.0.19</google.errorprone.version>
         <redmine-java-api.version>3.0.0</redmine-java-api.version>
         <commons-validator.version>1.6</commons-validator.version>
-        <univocity-parsers.version>2.4.1</univocity-parsers.version>
+        <univocity-parsers.version>2.9.1</univocity-parsers.version>
         <campaign-db.version>11.6.1-SNAPSHOT</campaign-db.version>
         <streamex.version>0.6.5</streamex.version>
     </properties>
