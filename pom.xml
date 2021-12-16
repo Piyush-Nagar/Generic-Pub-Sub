@@ -33,7 +33,7 @@
         <maven-checkstyle-plugin.version>2.17</maven-checkstyle-plugin.version>
         <checkstyle.version>7.6.1</checkstyle.version>
         <errorprone.version>2.8.1</errorprone.version>
-        <google.findbug.version>3.0.1</google.findbug.version>
+        <google.findbug.version>3.0.1u2</google.findbug.version>
         <google.errorprone.version>2.0.19</google.errorprone.version>
         <redmine-java-api.version>3.0.0</redmine-java-api.version>
         <commons-validator.version>1.6</commons-validator.version>
